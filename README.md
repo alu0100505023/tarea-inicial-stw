@@ -5,13 +5,13 @@
 
 ##Instacion del rvm
 
-El primer paso fue instalar rvm para linux, para ello se debe copiar en una terminal como un usuario normal el codigo necesario que especifica la web (http://rvm.io/rvm/install)
+El primer paso fue instalar rvm para linux, para ello se debe copiar en una terminal como un usuario normal el codigo necesario que especifica la web http://rvm.io/rvm/install
 
 En mi caso ya lo tenia previamente instalado como se muestra en la imagen a continuacion
 
 ![Alt text](https://raw.githubusercontent.com/alu0100505023/tarea-inicial-stw/master/img/rvm.png)
 
-Este programa permitira manejar las diferentes version de ruby instaladas como se indica en (http://rvm.io/rvm/basics)
+Este programa permitira manejar las diferentes version de ruby instaladas como se indica en http://rvm.io/rvm/basics
 
 
 ##Instalacion de Ruby y Bundle
@@ -49,7 +49,7 @@ El controlador de versiones Git habia sido instalado previamente
 
 ![Alt text](https://raw.githubusercontent.com/alu0100505023/tarea-inicial-stw/master/img/git.png)
 
-En caso contrario hubiese sido necesario seguir el tutorial (http://git-scm.com/book/es/Empezando-Instalando-Git)
+En caso contrario hubiese sido necesario seguir el tutorial http://git-scm.com/book/es/Empezando-Instalando-Git
 
 Para el caso de Linux en la distribucion debian el comando seria: 
 `apt-get install git
